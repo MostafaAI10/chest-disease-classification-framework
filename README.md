@@ -5,6 +5,10 @@
 
 ---
 
+![image alt](https://github.com/MostafaAI10/chest-disease-classification-framework/blob/d396cab1dd3fdbefa717e5c76cadab58ecdf827f/Image%20.png)
+
+---
+
 ## Abstract
 
 Chest diseases such as pneumonia and tuberculosis remain among the leading causes of morbidity and mortality worldwide. Chest X-ray imaging is a primary diagnostic tool; however, its interpretation depends heavily on expert radiologists, making the process time-consuming and susceptible to inter-observer variability. This project presents an end-to-end deep learning framework for automated chest disease classification using medical imaging data.

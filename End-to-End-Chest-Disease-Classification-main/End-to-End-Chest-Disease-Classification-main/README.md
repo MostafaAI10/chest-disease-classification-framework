@@ -1,6 +1,6 @@
 # An End-to-End Deep Learning Framework for Chest Disease Classification from Medical Images
 
-**Author:** Mostafa Abdelhamed
+**Author:** Mostafa Abdelhamed.
 **Domain:** Medical Image Analysis, Deep Learning, Healthcare AI
 
 ---
